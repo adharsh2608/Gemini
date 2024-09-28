@@ -1,11 +1,6 @@
-Here's an example of a GitHub `README.md` for your project "Gemini," built with React and the Gemini Clone API:
 
----
 
 # Octopus Project
-
-![Gemini Logo](link-to-logo-if-available)
-
 ## Overview
 
 **Octopus** is a web application built using React, designed to interact with the **Gemini Clone API**. This application allows users to explore and analyze data fetched from the Gemini API, with a user-friendly interface that provides insights and interactions in real-time.
