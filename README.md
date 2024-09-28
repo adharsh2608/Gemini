@@ -21,13 +21,13 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/gemini-project.git
+   git clone https://github.com/adharsh2608/Octopus.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd gemini-project
+   cd Gemini
    ```
 
 3. Install dependencies:
@@ -39,10 +39,10 @@
 4. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-   The app will be available at `http://localhost:3000`.
+   The app will be available at `http://localhost:5173`.
 
 ## API Setup
 
