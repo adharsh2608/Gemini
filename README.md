@@ -1,5 +1,3 @@
-
-
 # Octopus Project
 ## Overview
 
