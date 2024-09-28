@@ -8,7 +8,7 @@ const Main = () => {
   return (
     <div className="main">
         <div className="nav">
-            <p>Kuppathotti</p>
+            <p>Octopus</p>
             <img src={assets.user_icon} alt="" />
         </div>
         <div className="main-container">
