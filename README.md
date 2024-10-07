@@ -63,9 +63,6 @@ Once the app is running, users can:
 - Use filters and sorting features to customize the data display.
 - Analyze data trends with interactive charts and tables.
 
-## Screenshots
-
-*Add screenshots of the application interface here to showcase key features.*
 
 ## Contributing
 
